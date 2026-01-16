@@ -3,7 +3,7 @@ import Info from "./InfoSection/InfoSection.jsx";
 
 function Main() {
 	return (
-		<div>
+		<div className="flex">
 			<Image></Image>
             <Info></Info>
 		</div>
